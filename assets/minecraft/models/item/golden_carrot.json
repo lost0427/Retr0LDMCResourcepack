@@ -1,0 +1,9 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "item/golden_carrot"
+  },
+  "overrides": [
+    {"predicate": { "custom_model_data": 777}, "model": "ld:item/enchanted_berries"}
+  ]
+}

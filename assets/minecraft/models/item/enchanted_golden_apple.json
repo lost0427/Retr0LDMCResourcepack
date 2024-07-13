@@ -1,0 +1,12 @@
+{
+  "parent": "item/golden_apple",
+  "textures": {
+    "layer0": "item/golden_apple"
+  },
+  "overrides": [
+    {"predicate": { "custom_model_data": 773}, "model": "ld:item/bronze_medal"},
+    {"predicate": { "custom_model_data": 774}, "model": "ld:item/silver_medal"},
+    {"predicate": { "custom_model_data": 775}, "model": "ld:item/gold_medal"},
+    {"predicate": { "custom_model_data": 776}, "model": "ld:item/cat_medal"}
+  ]
+}
